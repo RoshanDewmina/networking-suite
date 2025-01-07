@@ -1,0 +1,11 @@
+# Configuration for Secure L2-to-L7 Networking Suite
+
+# TLS configuration
+tls_cert_path: "server.crt"  # Path to the TLS certificate
+tls_key_path: "server.key"   # Path to the TLS private key
+
+# UDP configuration
+udp_port: 9999  # Port number for the reliable UDP server
+
+# Logging configuration
+log_file: "networking.log"  # Path to the log file
