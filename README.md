@@ -1,6 +1,4 @@
-### **README.md**
 
-```markdown
 # Secure L2-to-L7 Networking Suite
 
 ## Overview
@@ -128,19 +126,3 @@ Run the application in various modes:
 4. **Error Injection**:
    - Simulated packet corruption and loss for resilience testing.
 
----
-
-## Future Enhancements
-1. **Performance Metrics**:
-   - Add a dashboard to track metrics like latency and packet loss.
-
-2. **Dynamic Configuration**:
-   - Support for hot reloading `config.yaml` without restarting the application.
-
-3. **Fuzz Testing**:
-   - Implement fuzz tests to uncover edge case bugs in packet handling.
-
----
-
-## Conclusion
-This project not only demonstrates advanced networking concepts but also emphasizes **Test-Driven Development (TDD)** and **Quality Assurance (QA)** principles. The comprehensive test suite, automation workflows, and structured codebase make it a great showcase of professional software development practices.
